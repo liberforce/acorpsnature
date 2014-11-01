@@ -39,7 +39,8 @@ a:hover
 
 a img 
 {
-	border-width : 0px;
+	border-width : 0px none #000;
+	margin: 10px;
 }
 
 html, body 
