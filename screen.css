@@ -36,6 +36,10 @@ vert:   #339520
 	font-weight : normal;
 }
 
+ul.bloc-soin
+{
+	margin : 10px 0px 10px 45px;
+}
 
 a 
 {
@@ -88,29 +92,8 @@ h3, h4, h5
 
 p
 {
-	margin : 10px 30px;
+	margin : 10px 20px;
 	text-align : justify;
-}
-
-/* TODO: supprimer cette règle */
-ul
-{
-	padding : 0 30px 1em 60px;
-}
-
-dl
-{
-	margin: 10px 0 30px 40px;
-}
-
-dt 
-{
-	font-weight: bold;
-}
-
-dd
-{
-	padding-left: 30px;
 }
 
 /* Styles concernant les menus */
